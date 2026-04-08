@@ -1,4 +1,4 @@
-# The Providence Compiler
+# The Slang Compiler
 
 A browser-based language experiment that seeds a word, builds a semantic field around it, and periodically injects unrelated interruptions — then distills the resulting 100-word stream into a short phrase and an explanation of what shaped it.
 
